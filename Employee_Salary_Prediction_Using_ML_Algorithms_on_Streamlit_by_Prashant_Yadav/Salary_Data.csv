@@ -1,0 +1,1001 @@
+Age,Years of Experience,Education Level,Job Title,Gender,Salary
+60,4,PhD,Manager,Female,107822
+50,9,PhD,Software Engineer,Male,112606
+36,32,Master,Designer,Female,134843
+64,37,Bachelor,Analyst,Male,158525
+29,12,High School,Data Scientist,Female,91026
+42,30,Bachelor,Analyst,Male,119623
+60,35,Master,Analyst,Male,166126
+40,23,PhD,Designer,Female,141348
+44,14,Bachelor,Analyst,Female,111650
+32,28,High School,Analyst,Male,105544
+32,7,Master,Manager,Female,64299
+45,4,Bachelor,Designer,Male,87587
+57,28,High School,Software Engineer,Female,122898
+61,3,Master,Data Scientist,Female,93371
+45,11,High School,Analyst,Male,105851
+24,1,Master,Data Scientist,Female,61430
+43,26,PhD,Software Engineer,Female,127724
+23,30,Bachelor,Data Scientist,Male,124267
+45,35,High School,Software Engineer,Female,125524
+51,35,Master,Manager,Male,141921
+59,25,High School,Analyst,Male,125748
+23,26,High School,Software Engineer,Male,106495
+42,4,Bachelor,Data Scientist,Male,85084
+54,19,PhD,Analyst,Male,150659
+33,10,High School,Manager,Female,83491
+43,9,Master,Analyst,Male,85082
+46,39,Master,Software Engineer,Male,169182
+48,37,PhD,Manager,Female,140111
+63,5,Master,Data Scientist,Female,81610
+49,7,PhD,Manager,Female,90548
+37,22,Master,Manager,Male,113671
+36,25,Bachelor,Designer,Male,111809
+24,11,High School,Manager,Male,79684
+58,25,Bachelor,Manager,Female,131747
+28,12,High School,Analyst,Male,94689
+42,39,High School,Data Scientist,Female,145911
+30,17,High School,Analyst,Male,89380
+60,24,Bachelor,Analyst,Female,138146
+39,32,High School,Software Engineer,Male,121322
+25,39,Bachelor,Analyst,Male,124173
+46,11,PhD,Designer,Male,115059
+35,35,Master,Designer,Female,152918
+30,3,Master,Software Engineer,Female,67077
+47,4,High School,Data Scientist,Male,73509
+23,36,Bachelor,Data Scientist,Male,124330
+41,7,Master,Analyst,Male,91766
+49,27,Bachelor,Analyst,Female,145820
+28,30,Bachelor,Analyst,Male,131028
+29,8,High School,Data Scientist,Male,86857
+56,28,Master,Manager,Male,146197
+35,13,High School,Designer,Male,89498
+38,39,High School,Manager,Female,153833
+57,21,Master,Manager,Female,131950
+61,10,Master,Data Scientist,Male,118894
+25,22,PhD,Manager,Male,109904
+23,0,PhD,Software Engineer,Female,52118
+27,36,Bachelor,Analyst,Female,145952
+63,20,Master,Software Engineer,Male,128997
+25,25,PhD,Designer,Female,117539
+50,35,Bachelor,Analyst,Female,142598
+39,22,Bachelor,Manager,Male,139046
+47,0,Bachelor,Designer,Female,67078
+55,39,PhD,Analyst,Female,154966
+31,14,Master,Manager,Male,98352
+57,20,High School,Software Engineer,Male,126304
+35,8,Bachelor,Analyst,Female,106284
+52,8,PhD,Manager,Male,106573
+36,9,PhD,Software Engineer,Female,81295
+29,25,High School,Designer,Male,130208
+35,34,High School,Designer,Female,131305
+44,24,PhD,Designer,Male,119622
+61,25,Master,Designer,Female,123706
+42,10,High School,Data Scientist,Female,95363
+37,37,PhD,Analyst,Female,152888
+39,1,High School,Analyst,Male,70950
+45,6,Master,Data Scientist,Male,101365
+47,17,Bachelor,Manager,Female,99478
+46,26,High School,Manager,Female,134661
+62,33,Master,Designer,Male,145808
+50,26,PhD,Software Engineer,Male,156640
+36,16,High School,Manager,Male,101987
+22,23,High School,Software Engineer,Male,93797
+46,24,PhD,Analyst,Male,108745
+28,6,Bachelor,Software Engineer,Male,84089
+30,5,PhD,Analyst,Female,79258
+45,23,High School,Data Scientist,Male,112944
+22,32,PhD,Data Scientist,Female,140661
+29,28,Master,Designer,Male,134604
+45,21,PhD,Manager,Male,134737
+32,25,High School,Designer,Female,100251
+38,27,PhD,Analyst,Female,145258
+29,20,Bachelor,Designer,Male,98709
+56,6,PhD,Software Engineer,Female,75437
+56,16,Bachelor,Analyst,Female,98215
+54,19,Master,Data Scientist,Female,121180
+26,19,Bachelor,Manager,Female,91211
+63,21,PhD,Analyst,Male,130619
+60,27,High School,Analyst,Female,133382
+62,39,Bachelor,Software Engineer,Male,157186
+49,6,Master,Manager,Male,85556
+28,0,Bachelor,Data Scientist,Male,51493
+30,31,Bachelor,Analyst,Male,127219
+29,12,Bachelor,Analyst,Female,67850
+33,29,Master,Software Engineer,Female,121640
+55,22,PhD,Designer,Male,120222
+54,18,Bachelor,Data Scientist,Male,110606
+44,31,Bachelor,Manager,Male,131866
+45,29,High School,Analyst,Male,136099
+58,28,Master,Analyst,Female,154834
+56,28,Bachelor,Data Scientist,Male,122822
+61,29,Master,Designer,Female,162428
+43,15,Bachelor,Analyst,Male,93707
+48,39,PhD,Data Scientist,Male,161725
+56,18,PhD,Software Engineer,Male,127108
+22,17,Bachelor,Designer,Male,119445
+56,0,PhD,Manager,Female,80577
+58,13,Bachelor,Analyst,Female,87032
+35,1,PhD,Data Scientist,Female,92403
+24,27,High School,Software Engineer,Male,103666
+22,29,High School,Manager,Male,111384
+26,37,High School,Data Scientist,Female,121822
+47,3,Master,Data Scientist,Female,79912
+35,0,Master,Manager,Male,63096
+60,7,High School,Software Engineer,Male,96764
+48,28,Master,Software Engineer,Female,134807
+30,38,PhD,Designer,Male,142189
+36,2,Bachelor,Analyst,Male,81958
+36,31,Bachelor,Manager,Female,132549
+47,9,Bachelor,Manager,Male,73039
+63,9,High School,Manager,Female,104697
+34,18,Master,Software Engineer,Male,108848
+53,33,PhD,Analyst,Female,164407
+60,32,PhD,Designer,Male,153239
+53,22,High School,Data Scientist,Female,108582
+25,27,PhD,Data Scientist,Female,122457
+51,31,PhD,Manager,Female,153539
+58,6,PhD,Analyst,Female,91292
+44,28,PhD,Software Engineer,Male,131597
+60,7,Master,Analyst,Male,95783
+36,0,PhD,Analyst,Female,64506
+64,2,Bachelor,Software Engineer,Male,78436
+50,23,High School,Manager,Male,118725
+57,22,Master,Analyst,Male,138524
+34,7,PhD,Data Scientist,Male,92171
+53,36,Master,Software Engineer,Male,152041
+28,2,PhD,Designer,Female,67687
+43,32,Bachelor,Manager,Female,146451
+49,27,High School,Software Engineer,Female,128835
+23,7,PhD,Designer,Female,76432
+63,33,PhD,Designer,Male,164486
+27,34,PhD,Analyst,Male,145095
+49,31,PhD,Analyst,Female,136364
+49,23,High School,Analyst,Male,115486
+41,13,High School,Software Engineer,Male,87572
+51,31,Bachelor,Software Engineer,Female,163835
+32,15,High School,Manager,Male,97317
+49,3,PhD,Analyst,Female,90367
+46,36,Bachelor,Designer,Female,149726
+60,20,Bachelor,Data Scientist,Male,133791
+54,13,Bachelor,Manager,Male,102166
+22,30,PhD,Software Engineer,Female,123100
+48,17,Master,Manager,Female,120442
+34,6,PhD,Manager,Male,85250
+62,9,High School,Manager,Female,84301
+24,6,High School,Manager,Female,57353
+60,32,PhD,Data Scientist,Female,167292
+27,22,PhD,Analyst,Male,116816
+29,20,Bachelor,Designer,Female,98604
+48,18,PhD,Manager,Male,115656
+30,18,Bachelor,Manager,Female,109074
+58,35,High School,Manager,Male,142065
+54,28,Bachelor,Analyst,Female,118505
+63,17,PhD,Software Engineer,Male,126758
+45,1,High School,Software Engineer,Male,82583
+36,0,Master,Data Scientist,Male,83414
+53,4,Bachelor,Software Engineer,Female,78906
+53,19,High School,Manager,Female,123191
+45,10,Bachelor,Manager,Female,94629
+62,1,High School,Manager,Male,91411
+33,2,High School,Data Scientist,Female,72236
+60,22,Bachelor,Manager,Male,108784
+23,11,Master,Software Engineer,Female,104967
+24,19,High School,Analyst,Male,96517
+58,4,High School,Analyst,Male,88767
+38,36,High School,Designer,Male,123559
+23,37,Master,Software Engineer,Female,144553
+23,29,Master,Manager,Female,134529
+49,8,PhD,Analyst,Female,117853
+44,33,Bachelor,Software Engineer,Male,152003
+58,34,Master,Analyst,Male,156542
+53,21,Bachelor,Manager,Female,103056
+54,23,PhD,Analyst,Female,132322
+22,16,Bachelor,Designer,Female,87074
+40,9,Master,Designer,Male,94349
+23,29,Bachelor,Analyst,Male,107336
+47,22,Master,Software Engineer,Male,119398
+53,31,Bachelor,Software Engineer,Male,133328
+27,16,Master,Software Engineer,Male,94018
+53,16,Master,Analyst,Female,107117
+25,13,Bachelor,Software Engineer,Male,87141
+32,8,PhD,Manager,Male,92861
+38,39,High School,Designer,Male,118015
+59,1,PhD,Manager,Male,65735
+45,24,Bachelor,Software Engineer,Male,117113
+26,38,PhD,Manager,Female,145022
+55,8,Master,Software Engineer,Male,99391
+27,21,High School,Analyst,Male,94223
+43,3,Bachelor,Manager,Male,77594
+32,25,Bachelor,Analyst,Female,117265
+37,28,Bachelor,Analyst,Female,117154
+54,33,High School,Data Scientist,Female,149134
+30,22,Master,Software Engineer,Male,114769
+27,36,Bachelor,Designer,Female,140969
+37,10,PhD,Software Engineer,Male,97188
+50,5,Bachelor,Designer,Male,106036
+24,17,Bachelor,Software Engineer,Female,101963
+41,20,Bachelor,Analyst,Male,105620
+57,35,Bachelor,Manager,Male,156709
+40,37,Master,Manager,Male,131623
+47,33,PhD,Data Scientist,Female,148696
+24,16,Master,Designer,Male,101191
+40,36,PhD,Designer,Male,151310
+41,24,Bachelor,Designer,Female,115162
+53,37,High School,Analyst,Male,136377
+28,11,Master,Designer,Male,82106
+62,22,High School,Manager,Female,122020
+54,21,Master,Analyst,Male,111864
+61,20,Bachelor,Software Engineer,Male,138201
+60,26,Master,Designer,Male,109591
+39,30,Bachelor,Designer,Male,126265
+61,5,Master,Software Engineer,Male,95603
+22,26,Bachelor,Designer,Female,118074
+32,39,Bachelor,Software Engineer,Female,134840
+49,33,PhD,Analyst,Female,159842
+46,11,Bachelor,Manager,Female,81061
+44,6,PhD,Software Engineer,Male,86338
+52,9,Bachelor,Data Scientist,Male,100207
+51,16,High School,Software Engineer,Male,113901
+63,25,Bachelor,Designer,Male,117459
+56,20,High School,Analyst,Male,140450
+28,27,High School,Analyst,Female,105025
+37,1,Bachelor,Software Engineer,Female,57378
+47,0,High School,Manager,Male,74527
+23,35,PhD,Data Scientist,Male,136017
+22,25,Master,Analyst,Male,110039
+33,28,Bachelor,Designer,Female,128456
+26,20,High School,Designer,Male,83727
+58,10,Bachelor,Manager,Male,81978
+53,39,PhD,Analyst,Male,156525
+30,10,Bachelor,Software Engineer,Female,95779
+62,35,Bachelor,Designer,Male,145459
+56,38,High School,Manager,Female,165991
+40,39,PhD,Analyst,Female,168010
+37,34,Master,Analyst,Female,143329
+24,33,Master,Analyst,Female,135397
+41,23,High School,Analyst,Female,115320
+45,21,Bachelor,Analyst,Female,116097
+54,4,High School,Designer,Male,77337
+45,32,High School,Manager,Male,129998
+32,35,High School,Analyst,Male,121300
+29,19,Bachelor,Data Scientist,Female,80399
+57,18,PhD,Data Scientist,Male,133540
+59,34,High School,Manager,Female,145072
+61,16,Bachelor,Software Engineer,Female,112562
+41,33,PhD,Software Engineer,Female,148484
+56,8,High School,Software Engineer,Male,81716
+46,25,Master,Data Scientist,Female,116989
+56,1,PhD,Software Engineer,Female,85163
+46,8,High School,Designer,Male,98680
+50,8,PhD,Analyst,Male,87312
+39,39,PhD,Data Scientist,Female,129229
+39,16,PhD,Manager,Female,104285
+23,0,PhD,Manager,Male,80926
+56,24,PhD,Analyst,Male,116674
+37,39,PhD,Data Scientist,Male,142697
+62,24,High School,Software Engineer,Female,127635
+57,38,Master,Software Engineer,Male,184199
+54,34,Bachelor,Designer,Male,131417
+25,2,PhD,Designer,Male,60530
+54,36,Bachelor,Software Engineer,Female,152386
+35,29,High School,Manager,Male,133546
+42,37,PhD,Manager,Male,146759
+41,33,Master,Designer,Male,124286
+29,11,Bachelor,Analyst,Male,90837
+28,18,PhD,Software Engineer,Male,114148
+24,36,High School,Designer,Female,147786
+38,16,Master,Designer,Female,111569
+54,9,Bachelor,Software Engineer,Female,103280
+33,11,Bachelor,Software Engineer,Male,85878
+43,15,PhD,Manager,Female,133915
+43,23,Master,Analyst,Female,117518
+51,18,Master,Analyst,Female,109380
+59,7,Master,Software Engineer,Male,115595
+59,30,Master,Data Scientist,Male,128757
+29,20,High School,Designer,Female,82025
+48,16,Master,Designer,Female,111195
+48,22,Bachelor,Software Engineer,Male,117982
+55,36,Bachelor,Data Scientist,Male,147221
+42,15,High School,Manager,Female,106939
+51,5,Bachelor,Software Engineer,Male,76417
+54,7,Bachelor,Software Engineer,Female,91641
+49,24,Master,Designer,Male,122898
+54,17,Bachelor,Software Engineer,Female,102087
+26,24,High School,Software Engineer,Female,106381
+40,11,Master,Software Engineer,Male,104525
+25,14,PhD,Designer,Female,119705
+56,25,Master,Manager,Female,137794
+38,25,High School,Manager,Female,89891
+49,31,Master,Software Engineer,Male,140118
+51,9,Master,Designer,Male,97998
+50,15,High School,Manager,Male,110362
+27,6,Master,Manager,Female,81348
+56,16,High School,Manager,Male,118530
+62,22,High School,Designer,Female,124916
+58,25,PhD,Designer,Female,152587
+45,20,Bachelor,Software Engineer,Male,108112
+50,21,Bachelor,Analyst,Male,118443
+52,6,Master,Manager,Female,100266
+56,13,Master,Analyst,Female,102278
+54,14,PhD,Designer,Male,105099
+42,6,PhD,Designer,Male,84706
+53,8,PhD,Designer,Male,93007
+44,7,High School,Analyst,Female,87225
+54,22,PhD,Designer,Female,110651
+24,28,PhD,Software Engineer,Female,110440
+39,17,Master,Designer,Female,126127
+46,30,PhD,Data Scientist,Female,133749
+63,29,High School,Analyst,Male,137500
+52,38,High School,Data Scientist,Male,133108
+24,34,Master,Designer,Female,134941
+61,17,PhD,Software Engineer,Female,115309
+45,38,PhD,Manager,Male,140869
+53,16,High School,Designer,Male,117869
+43,13,PhD,Software Engineer,Male,117325
+44,30,PhD,Analyst,Male,138926
+23,23,PhD,Data Scientist,Female,125494
+48,34,Bachelor,Data Scientist,Male,161032
+63,33,Master,Data Scientist,Female,159040
+23,2,Bachelor,Analyst,Male,70296
+47,36,Master,Software Engineer,Male,151489
+38,39,High School,Analyst,Male,149494
+61,25,PhD,Data Scientist,Female,134860
+54,22,Master,Designer,Female,122233
+30,38,Bachelor,Manager,Male,145508
+64,14,PhD,Analyst,Female,113261
+60,3,High School,Analyst,Female,78342
+50,28,Master,Software Engineer,Male,135001
+63,21,Master,Software Engineer,Male,139006
+47,24,Master,Analyst,Female,114173
+56,12,PhD,Data Scientist,Female,117591
+46,17,Bachelor,Manager,Female,114917
+45,32,Bachelor,Software Engineer,Male,144358
+34,15,Master,Data Scientist,Male,92932
+28,1,High School,Designer,Female,45073
+57,34,High School,Software Engineer,Male,148097
+41,33,Bachelor,Data Scientist,Male,138375
+22,29,High School,Data Scientist,Female,125043
+29,12,Bachelor,Manager,Female,81494
+37,12,Master,Manager,Male,104101
+35,17,Bachelor,Designer,Male,112044
+33,31,Bachelor,Data Scientist,Female,127546
+44,31,Master,Data Scientist,Male,142169
+36,34,High School,Manager,Male,135819
+49,38,Bachelor,Software Engineer,Female,142285
+55,28,Bachelor,Software Engineer,Female,138810
+23,28,Master,Analyst,Male,137724
+53,15,High School,Manager,Male,102722
+44,9,Bachelor,Analyst,Male,75390
+43,29,Master,Manager,Female,126627
+46,24,Bachelor,Designer,Male,103205
+43,38,PhD,Data Scientist,Male,168402
+43,19,Master,Designer,Female,121141
+63,4,High School,Manager,Female,80486
+27,0,High School,Data Scientist,Male,45319
+36,29,High School,Software Engineer,Female,113667
+64,2,High School,Software Engineer,Female,75617
+58,13,Bachelor,Analyst,Male,106094
+54,29,Bachelor,Manager,Female,135757
+29,3,High School,Manager,Female,79914
+26,17,High School,Software Engineer,Male,86072
+60,36,High School,Designer,Female,132918
+25,24,Bachelor,Data Scientist,Male,98930
+27,0,High School,Designer,Male,59269
+53,14,High School,Designer,Female,93213
+51,8,PhD,Software Engineer,Female,96579
+56,14,PhD,Software Engineer,Female,109459
+61,23,High School,Software Engineer,Male,132402
+37,3,Master,Analyst,Female,72630
+34,11,High School,Designer,Male,81226
+63,36,PhD,Manager,Female,168672
+51,36,Master,Data Scientist,Female,145850
+40,5,Master,Analyst,Female,88232
+38,38,High School,Manager,Male,144314
+40,23,PhD,Designer,Female,125417
+49,10,PhD,Software Engineer,Female,91156
+47,12,Master,Designer,Male,113797
+58,33,High School,Data Scientist,Male,163206
+47,24,Bachelor,Analyst,Female,121588
+44,6,Bachelor,Analyst,Female,73536
+30,3,PhD,Data Scientist,Female,79291
+33,7,Bachelor,Manager,Male,90398
+22,19,PhD,Manager,Male,100848
+22,28,PhD,Analyst,Male,123711
+55,9,PhD,Analyst,Male,106906
+53,33,Bachelor,Software Engineer,Female,154530
+46,25,PhD,Manager,Male,138754
+61,2,Master,Data Scientist,Male,96668
+22,5,High School,Manager,Male,62737
+37,4,High School,Software Engineer,Female,76519
+60,4,PhD,Analyst,Female,88780
+26,22,High School,Analyst,Male,111455
+43,8,Bachelor,Software Engineer,Male,99012
+50,34,Bachelor,Data Scientist,Female,148533
+24,19,High School,Analyst,Female,92325
+33,34,Bachelor,Designer,Female,132462
+47,17,High School,Analyst,Female,121565
+37,16,High School,Designer,Female,92992
+58,23,High School,Software Engineer,Female,131499
+43,2,PhD,Software Engineer,Female,86888
+50,31,High School,Analyst,Female,129658
+35,34,PhD,Manager,Male,130053
+49,37,High School,Designer,Male,146616
+26,12,High School,Data Scientist,Male,83911
+51,24,High School,Analyst,Male,137565
+26,8,Bachelor,Data Scientist,Male,70398
+33,3,PhD,Analyst,Male,103447
+37,13,PhD,Manager,Female,106288
+47,36,High School,Manager,Female,145278
+47,33,High School,Manager,Male,129569
+42,10,Bachelor,Manager,Male,94147
+60,2,Bachelor,Software Engineer,Female,88730
+57,27,Bachelor,Software Engineer,Female,141873
+54,28,PhD,Designer,Female,131216
+51,8,PhD,Data Scientist,Male,113567
+58,2,PhD,Analyst,Female,94614
+44,24,High School,Analyst,Male,122082
+31,33,PhD,Software Engineer,Male,137290
+26,11,Master,Analyst,Female,79718
+57,8,Master,Software Engineer,Female,99227
+55,14,Bachelor,Designer,Male,107372
+52,39,PhD,Data Scientist,Female,148145
+31,24,Master,Designer,Female,125432
+40,4,Bachelor,Manager,Male,87965
+53,10,PhD,Manager,Female,97203
+22,33,High School,Manager,Male,112774
+26,23,Master,Designer,Male,109970
+25,14,High School,Analyst,Female,86738
+37,37,PhD,Data Scientist,Male,147858
+45,7,Master,Manager,Male,89890
+37,4,PhD,Manager,Female,86714
+23,25,High School,Manager,Female,93817
+49,17,Master,Data Scientist,Female,99967
+53,5,High School,Manager,Male,55277
+48,36,PhD,Data Scientist,Male,163425
+41,12,PhD,Manager,Female,102652
+45,27,High School,Designer,Male,132978
+33,4,Master,Designer,Female,67122
+56,12,High School,Data Scientist,Female,98244
+54,16,PhD,Designer,Male,119148
+54,39,High School,Data Scientist,Female,145382
+64,31,PhD,Designer,Male,136465
+58,28,High School,Designer,Male,148458
+33,2,Master,Data Scientist,Female,88492
+24,39,Master,Analyst,Male,140180
+22,33,High School,Designer,Female,128102
+54,39,High School,Manager,Male,146152
+61,26,Master,Analyst,Male,126545
+31,12,PhD,Data Scientist,Male,115772
+64,32,Master,Analyst,Female,133446
+50,5,PhD,Software Engineer,Male,90144
+34,23,High School,Software Engineer,Female,109843
+33,18,High School,Designer,Male,115012
+52,15,PhD,Designer,Male,122965
+23,39,High School,Manager,Female,118777
+56,27,PhD,Analyst,Female,139972
+44,32,Bachelor,Software Engineer,Female,136210
+38,12,Master,Designer,Female,94716
+47,24,Bachelor,Analyst,Female,127698
+29,35,PhD,Designer,Male,128408
+50,26,Master,Designer,Male,126913
+47,37,PhD,Software Engineer,Female,160288
+31,6,Master,Software Engineer,Male,88295
+47,4,Master,Designer,Male,86994
+55,30,Master,Data Scientist,Male,138616
+62,22,Master,Designer,Female,127800
+28,9,PhD,Designer,Male,97404
+25,31,Master,Manager,Male,128839
+32,29,Master,Manager,Male,117581
+50,38,Bachelor,Manager,Female,138665
+57,30,High School,Data Scientist,Male,119603
+46,17,High School,Data Scientist,Male,117555
+42,35,Bachelor,Designer,Female,149074
+57,1,Bachelor,Manager,Female,79435
+31,13,PhD,Data Scientist,Male,94962
+58,12,PhD,Software Engineer,Male,105260
+30,28,PhD,Designer,Female,139932
+45,11,Bachelor,Analyst,Female,113544
+56,38,Bachelor,Designer,Female,147946
+56,1,Master,Analyst,Female,95384
+57,31,PhD,Manager,Female,148780
+39,12,PhD,Analyst,Female,99375
+60,26,PhD,Manager,Female,155042
+53,16,High School,Software Engineer,Male,104398
+45,39,Master,Analyst,Female,157463
+44,30,PhD,Designer,Female,142482
+53,33,PhD,Manager,Male,134244
+58,23,PhD,Designer,Female,135884
+33,34,High School,Data Scientist,Female,124873
+34,5,High School,Manager,Male,58788
+44,18,Bachelor,Analyst,Female,102828
+46,29,Master,Manager,Male,129746
+56,6,Bachelor,Designer,Male,100298
+62,9,Master,Software Engineer,Male,92362
+51,31,High School,Manager,Male,125601
+38,33,PhD,Analyst,Female,145353
+41,27,Bachelor,Data Scientist,Male,111242
+46,14,PhD,Software Engineer,Male,102409
+43,29,Bachelor,Data Scientist,Female,112855
+34,36,High School,Manager,Male,144200
+40,28,High School,Designer,Male,118986
+57,21,High School,Designer,Male,116340
+33,3,Bachelor,Analyst,Male,81660
+62,19,Master,Designer,Female,115777
+40,31,Bachelor,Software Engineer,Male,128880
+33,35,Master,Designer,Female,129936
+30,3,Bachelor,Analyst,Female,60414
+28,26,Bachelor,Manager,Male,106794
+49,16,High School,Manager,Male,97575
+35,11,PhD,Designer,Male,93652
+52,21,PhD,Data Scientist,Male,128886
+40,16,Master,Manager,Female,97087
+37,9,PhD,Designer,Female,97696
+26,0,Bachelor,Analyst,Female,67850
+56,21,Bachelor,Designer,Male,115321
+33,25,High School,Manager,Female,104452
+46,17,High School,Analyst,Male,103850
+42,13,PhD,Designer,Male,102970
+57,28,Master,Software Engineer,Male,140703
+44,11,PhD,Analyst,Male,117698
+37,35,PhD,Software Engineer,Male,147186
+60,34,PhD,Data Scientist,Female,149607
+63,11,PhD,Analyst,Female,102591
+60,6,Bachelor,Software Engineer,Male,83477
+35,28,Master,Manager,Female,112872
+52,10,Bachelor,Manager,Male,105327
+26,32,Master,Data Scientist,Male,108667
+56,5,High School,Analyst,Male,88881
+44,14,PhD,Analyst,Female,99319
+50,31,Bachelor,Analyst,Male,131875
+64,10,Master,Data Scientist,Male,97020
+32,22,High School,Analyst,Female,120458
+39,25,High School,Manager,Female,115663
+33,33,PhD,Software Engineer,Female,148403
+30,33,Master,Manager,Male,148005
+31,28,Bachelor,Manager,Male,123134
+38,3,PhD,Software Engineer,Female,71043
+59,16,Bachelor,Manager,Male,109293
+28,34,High School,Data Scientist,Female,120577
+34,12,Bachelor,Software Engineer,Female,85964
+61,38,Bachelor,Manager,Male,155553
+63,14,PhD,Designer,Male,116158
+30,28,Bachelor,Manager,Female,125121
+48,28,PhD,Data Scientist,Female,143573
+23,10,High School,Analyst,Female,76158
+26,31,PhD,Manager,Female,137034
+50,1,PhD,Analyst,Male,79506
+58,13,Master,Designer,Female,122147
+59,19,Bachelor,Manager,Female,111844
+40,21,High School,Software Engineer,Female,119971
+29,10,PhD,Analyst,Male,77739
+22,26,High School,Designer,Male,105195
+43,2,Master,Software Engineer,Female,76190
+38,16,Bachelor,Software Engineer,Male,103789
+28,27,PhD,Software Engineer,Male,134618
+46,28,Bachelor,Software Engineer,Male,116506
+25,20,Master,Manager,Female,95420
+57,15,Master,Manager,Female,98480
+27,36,High School,Manager,Male,144701
+52,19,PhD,Designer,Female,124976
+40,5,High School,Designer,Female,65156
+60,18,Master,Designer,Male,115569
+48,4,Bachelor,Data Scientist,Male,93817
+31,2,High School,Designer,Female,62718
+47,0,High School,Manager,Male,66128
+40,37,Bachelor,Manager,Female,136187
+60,14,High School,Data Scientist,Female,93750
+24,33,Bachelor,Data Scientist,Male,139833
+34,34,PhD,Designer,Female,159739
+49,24,Bachelor,Analyst,Female,112648
+41,23,PhD,Data Scientist,Male,138549
+49,11,Bachelor,Software Engineer,Male,91626
+29,17,Master,Manager,Male,107836
+62,14,Master,Software Engineer,Female,127102
+60,15,PhD,Manager,Male,116549
+22,26,PhD,Manager,Male,117720
+24,7,Master,Data Scientist,Male,88010
+34,24,PhD,Data Scientist,Male,111900
+49,16,Bachelor,Software Engineer,Female,117970
+46,28,Bachelor,Manager,Female,130428
+54,7,Master,Software Engineer,Male,89222
+59,14,High School,Analyst,Female,97458
+27,26,Bachelor,Software Engineer,Male,101665
+53,6,PhD,Designer,Male,91138
+42,2,High School,Software Engineer,Female,68359
+37,28,High School,Designer,Female,109887
+42,23,Bachelor,Designer,Male,116545
+32,2,Bachelor,Designer,Male,74729
+58,19,High School,Analyst,Female,110865
+57,14,High School,Software Engineer,Male,109127
+56,24,Master,Software Engineer,Female,121928
+40,29,PhD,Analyst,Male,146033
+41,13,Master,Manager,Male,101718
+39,6,Bachelor,Data Scientist,Female,96952
+62,16,Master,Software Engineer,Female,141142
+35,19,Master,Data Scientist,Female,104797
+36,35,Master,Analyst,Female,137709
+52,8,Master,Manager,Female,93537
+22,37,PhD,Manager,Female,148957
+24,21,PhD,Manager,Female,125259
+37,1,High School,Analyst,Male,59971
+44,23,Bachelor,Designer,Male,121812
+32,7,Master,Designer,Male,82640
+33,10,High School,Data Scientist,Female,88681
+31,12,High School,Designer,Female,100594
+53,16,High School,Designer,Female,102096
+37,7,PhD,Manager,Male,73801
+29,20,Master,Manager,Female,115939
+59,17,Master,Data Scientist,Female,109172
+33,29,Bachelor,Software Engineer,Male,123068
+45,17,Master,Data Scientist,Female,118370
+49,30,Master,Data Scientist,Male,141473
+29,37,High School,Analyst,Male,133482
+49,31,Bachelor,Analyst,Female,130741
+57,10,Master,Data Scientist,Female,73501
+47,24,PhD,Data Scientist,Female,136483
+29,32,Master,Data Scientist,Male,129970
+49,37,High School,Designer,Male,159633
+49,7,PhD,Analyst,Male,100480
+58,10,High School,Data Scientist,Female,89588
+62,21,Master,Manager,Female,137668
+57,23,PhD,Manager,Female,144011
+48,16,Bachelor,Designer,Female,103809
+38,11,Bachelor,Designer,Male,102936
+30,31,PhD,Software Engineer,Male,129446
+54,14,PhD,Software Engineer,Male,114596
+41,15,High School,Software Engineer,Male,102214
+34,21,PhD,Designer,Female,124847
+49,27,High School,Designer,Female,130715
+50,19,Master,Designer,Female,113673
+34,32,High School,Manager,Male,137936
+56,9,PhD,Designer,Male,102755
+27,39,PhD,Manager,Female,143809
+39,31,Master,Software Engineer,Female,129956
+26,32,PhD,Software Engineer,Male,154399
+46,1,PhD,Software Engineer,Female,75580
+23,32,Bachelor,Data Scientist,Male,138416
+31,32,Bachelor,Data Scientist,Male,118145
+51,12,Master,Analyst,Male,108379
+26,29,High School,Analyst,Female,119970
+54,32,Bachelor,Analyst,Female,157212
+22,12,High School,Data Scientist,Male,74455
+39,25,PhD,Data Scientist,Female,118193
+53,21,Bachelor,Analyst,Male,117334
+32,38,Master,Analyst,Male,162648
+42,1,Master,Designer,Male,68158
+47,37,Master,Analyst,Male,125615
+46,38,Bachelor,Designer,Female,149597
+43,25,High School,Manager,Male,126995
+48,14,PhD,Data Scientist,Male,99861
+34,33,High School,Analyst,Female,137479
+54,39,High School,Data Scientist,Male,140640
+55,10,PhD,Data Scientist,Male,104034
+62,2,PhD,Data Scientist,Female,100526
+56,5,Bachelor,Manager,Female,76125
+22,8,Bachelor,Software Engineer,Female,78815
+42,5,Bachelor,Analyst,Male,93149
+27,8,Bachelor,Software Engineer,Female,84239
+49,38,Bachelor,Software Engineer,Female,143293
+38,30,PhD,Software Engineer,Male,152187
+26,31,High School,Data Scientist,Male,127583
+52,11,Bachelor,Designer,Male,79395
+26,7,Bachelor,Data Scientist,Male,85642
+59,7,High School,Data Scientist,Male,83786
+24,27,Bachelor,Software Engineer,Female,117965
+44,19,High School,Data Scientist,Female,116080
+58,6,High School,Software Engineer,Female,81503
+58,10,PhD,Designer,Male,90544
+31,19,Master,Analyst,Male,122555
+31,15,PhD,Software Engineer,Male,115145
+40,3,Master,Designer,Female,79127
+38,5,Master,Analyst,Female,91534
+42,21,Master,Manager,Male,113306
+35,25,Bachelor,Software Engineer,Female,118469
+30,2,PhD,Software Engineer,Male,75557
+22,13,Master,Manager,Female,87710
+34,10,High School,Manager,Female,86593
+25,17,Bachelor,Software Engineer,Female,84418
+22,11,PhD,Manager,Male,88484
+61,22,Master,Data Scientist,Female,131644
+53,11,High School,Analyst,Female,112881
+55,12,PhD,Analyst,Male,97824
+49,24,PhD,Analyst,Female,135705
+52,18,Bachelor,Data Scientist,Male,118301
+29,35,PhD,Manager,Male,123732
+60,7,Bachelor,Designer,Male,98105
+47,28,Master,Manager,Male,142302
+55,31,Bachelor,Software Engineer,Male,145386
+24,17,High School,Analyst,Female,91160
+33,5,Bachelor,Manager,Male,79832
+22,17,High School,Designer,Male,92698
+26,18,Bachelor,Software Engineer,Male,82105
+51,21,PhD,Data Scientist,Male,127433
+51,36,Master,Data Scientist,Female,147829
+38,31,High School,Designer,Male,119951
+44,2,Bachelor,Software Engineer,Female,100849
+36,27,Bachelor,Analyst,Male,134526
+58,9,Bachelor,Manager,Female,85498
+42,34,PhD,Software Engineer,Male,150466
+35,28,PhD,Data Scientist,Male,146080
+23,14,High School,Designer,Female,70538
+32,32,High School,Designer,Male,126769
+60,6,PhD,Manager,Female,101240
+59,11,High School,Designer,Male,84755
+55,29,Master,Designer,Female,143295
+59,20,Master,Software Engineer,Male,134662
+55,30,PhD,Analyst,Male,160580
+39,23,High School,Manager,Female,109006
+51,19,Bachelor,Software Engineer,Male,138516
+36,36,Master,Analyst,Male,123420
+48,3,PhD,Software Engineer,Male,91562
+55,27,High School,Software Engineer,Male,113377
+59,19,PhD,Designer,Male,126401
+54,23,Bachelor,Analyst,Male,117780
+45,31,Master,Manager,Female,143568
+36,35,PhD,Manager,Female,144731
+51,33,PhD,Analyst,Female,141240
+63,35,PhD,Designer,Male,151897
+38,1,Bachelor,Data Scientist,Female,90324
+26,14,PhD,Software Engineer,Male,103435
+50,33,Bachelor,Designer,Male,123978
+25,35,Bachelor,Analyst,Male,138007
+31,5,Bachelor,Software Engineer,Male,73553
+38,38,Master,Manager,Female,149046
+31,11,Master,Data Scientist,Male,99698
+38,2,PhD,Manager,Female,92832
+41,17,PhD,Analyst,Male,103911
+45,39,Master,Software Engineer,Female,154202
+26,20,High School,Analyst,Female,93538
+55,14,Master,Software Engineer,Female,115468
+27,32,Bachelor,Designer,Female,125176
+23,34,Master,Data Scientist,Female,133792
+34,25,Bachelor,Designer,Female,114297
+64,7,PhD,Designer,Male,102938
+64,35,High School,Analyst,Female,165046
+32,29,PhD,Data Scientist,Male,155907
+44,22,Bachelor,Software Engineer,Female,119770
+37,13,Bachelor,Software Engineer,Male,93500
+52,13,Bachelor,Manager,Female,86043
+32,1,High School,Software Engineer,Female,56395
+37,36,Master,Analyst,Male,143232
+29,4,PhD,Designer,Female,73349
+25,37,PhD,Designer,Female,138400
+61,13,Master,Designer,Female,126253
+25,38,PhD,Data Scientist,Male,146787
+46,24,High School,Software Engineer,Female,118182
+24,19,PhD,Analyst,Male,101258
+53,1,Bachelor,Data Scientist,Female,90275
+24,38,Master,Manager,Female,139874
+48,5,High School,Analyst,Male,74791
+50,16,Master,Analyst,Female,95192
+53,24,High School,Analyst,Female,119888
+40,27,Bachelor,Designer,Male,118479
+42,1,Master,Analyst,Female,93845
+26,34,PhD,Software Engineer,Male,157438
+39,36,High School,Analyst,Male,125147
+49,4,Master,Designer,Male,75278
+63,0,PhD,Analyst,Female,86736
+43,39,Master,Manager,Male,145339
+42,11,Master,Manager,Male,99174
+27,35,Master,Designer,Female,134233
+22,22,High School,Software Engineer,Male,103805
+26,30,PhD,Software Engineer,Female,141160
+62,10,Bachelor,Data Scientist,Female,90357
+33,9,High School,Designer,Female,90452
+47,2,High School,Analyst,Female,66213
+55,13,High School,Designer,Male,120984
+35,15,Bachelor,Data Scientist,Male,113709
+47,9,PhD,Designer,Male,98369
+48,28,PhD,Designer,Male,128364
+30,9,PhD,Data Scientist,Male,79451
+47,11,Master,Software Engineer,Female,108236
+43,29,Master,Analyst,Male,133195
+51,0,Master,Data Scientist,Male,88768
+64,4,Bachelor,Manager,Male,112042
+38,19,Master,Software Engineer,Female,103296
+47,7,Bachelor,Manager,Female,75198
+57,11,PhD,Software Engineer,Male,110425
+22,0,Master,Analyst,Female,76447
+29,19,Master,Analyst,Male,97095
+56,27,High School,Designer,Male,128346
+36,36,Bachelor,Manager,Female,153700
+43,36,PhD,Software Engineer,Female,135171
+35,11,High School,Analyst,Male,87853
+47,36,High School,Data Scientist,Male,136098
+49,27,PhD,Analyst,Female,137741
+44,14,High School,Data Scientist,Male,103097
+35,5,Bachelor,Software Engineer,Female,79708
+45,19,Bachelor,Analyst,Male,100397
+23,13,Master,Analyst,Female,86487
+47,1,High School,Software Engineer,Male,85765
+35,8,Master,Analyst,Male,90789
+28,36,High School,Data Scientist,Female,140403
+24,19,Bachelor,Analyst,Male,102502
+44,25,Bachelor,Manager,Male,130091
+64,28,Bachelor,Designer,Female,134038
+39,0,High School,Data Scientist,Male,57824
+59,34,Bachelor,Manager,Male,155136
+56,5,High School,Software Engineer,Male,95273
+36,36,Master,Data Scientist,Female,134857
+46,4,High School,Designer,Female,71240
+58,32,Master,Designer,Female,145367
+49,13,High School,Software Engineer,Male,112698
+31,11,Master,Software Engineer,Male,97131
+60,19,Bachelor,Data Scientist,Male,104759
+38,23,Master,Analyst,Male,118070
+60,33,Bachelor,Software Engineer,Female,143541
+43,24,Bachelor,Analyst,Male,107767
+47,28,Master,Manager,Male,132452
+46,38,High School,Designer,Male,142099
+38,30,High School,Analyst,Female,121383
+34,22,PhD,Designer,Male,114926
+41,37,High School,Analyst,Male,155213
+46,19,PhD,Manager,Male,115362
+25,22,High School,Software Engineer,Male,102996
+31,15,High School,Manager,Male,90912
+24,7,Bachelor,Software Engineer,Female,70949
+62,20,PhD,Software Engineer,Male,129795
+39,0,High School,Designer,Male,66153
+57,7,PhD,Manager,Male,101297
+43,28,Bachelor,Analyst,Male,118907
+55,31,Bachelor,Manager,Male,137438
+29,37,PhD,Designer,Male,154103
+61,4,Bachelor,Software Engineer,Male,86701
+40,21,Master,Designer,Male,117617
+63,33,Master,Data Scientist,Male,153170
+62,0,Bachelor,Data Scientist,Male,85173
+58,25,Master,Analyst,Female,138586
+27,9,High School,Designer,Female,75758
+47,29,PhD,Analyst,Female,130386
+55,17,High School,Analyst,Female,95312
+27,16,PhD,Data Scientist,Male,113676
+58,25,Bachelor,Analyst,Female,136702
+54,7,High School,Data Scientist,Female,93493
+43,39,Bachelor,Software Engineer,Male,157612
+42,11,Bachelor,Designer,Female,91384
+27,26,PhD,Analyst,Female,117251
+27,7,PhD,Data Scientist,Male,75695
+25,24,PhD,Manager,Male,107606
+51,3,High School,Analyst,Male,89621
+32,32,Master,Software Engineer,Female,129068
+51,0,PhD,Software Engineer,Female,94048
+52,18,PhD,Manager,Male,118131
+45,30,High School,Data Scientist,Male,121737
+30,15,PhD,Analyst,Female,92056
+24,13,High School,Data Scientist,Male,78118
+52,4,Bachelor,Software Engineer,Female,98182
+61,25,PhD,Data Scientist,Male,127657
+58,27,PhD,Software Engineer,Male,162167
+57,1,Bachelor,Data Scientist,Female,72093
+45,5,Bachelor,Manager,Male,89999
+52,8,Bachelor,Designer,Male,90547
+27,32,PhD,Manager,Male,132294
+23,24,Master,Manager,Female,100785
+41,12,Master,Designer,Male,97516
+49,8,Master,Designer,Male,82917
+32,12,PhD,Analyst,Male,81184
+25,30,Bachelor,Analyst,Male,123695
+36,10,PhD,Manager,Male,89645
+27,3,Bachelor,Manager,Male,86343
+51,33,PhD,Software Engineer,Female,159500
+59,37,PhD,Software Engineer,Female,178474
+23,3,Bachelor,Analyst,Male,60691
+36,37,Master,Analyst,Female,147361
+32,18,Bachelor,Software Engineer,Female,75793
+29,5,High School,Software Engineer,Male,67681
+47,33,High School,Data Scientist,Female,136484
+26,17,Bachelor,Data Scientist,Female,98540
+27,12,PhD,Software Engineer,Female,95076
+47,22,High School,Data Scientist,Female,114165
+25,18,High School,Designer,Female,67367
+40,10,PhD,Analyst,Female,100562
+41,0,PhD,Analyst,Female,83334
+54,23,Master,Software Engineer,Female,140380
+41,6,PhD,Manager,Male,94187
+33,24,Bachelor,Software Engineer,Male,113192
+22,20,Bachelor,Data Scientist,Female,112049
+47,14,Master,Manager,Female,81926
+35,0,High School,Data Scientist,Male,58350
+59,11,High School,Designer,Female,89841
+58,6,PhD,Data Scientist,Female,98654
+32,14,Bachelor,Designer,Male,72013
+57,20,High School,Designer,Male,127696
+34,18,Master,Data Scientist,Male,104501
+64,28,Master,Data Scientist,Female,145187
+24,24,Bachelor,Designer,Female,112230
+54,32,Master,Manager,Male,157624
+27,31,Master,Designer,Male,110880
+31,34,Bachelor,Analyst,Female,134623
+26,37,PhD,Designer,Male,156461
+44,25,PhD,Manager,Female,129020
+31,10,Master,Analyst,Female,79987
+23,34,PhD,Software Engineer,Male,131461
+34,7,PhD,Software Engineer,Male,85070
+61,13,Master,Manager,Female,103289
+23,9,PhD,Designer,Male,85971
+41,1,Master,Data Scientist,Male,91582
+22,8,High School,Manager,Male,67026
+58,2,Bachelor,Analyst,Male,78123
+30,20,Bachelor,Analyst,Female,109597
+38,25,PhD,Software Engineer,Female,125251
+30,7,PhD,Analyst,Female,73708
+32,1,PhD,Manager,Female,75388
+36,5,Bachelor,Analyst,Male,77011
+45,27,High School,Manager,Male,132256
+59,28,High School,Data Scientist,Female,121778
+56,25,Bachelor,Software Engineer,Female,137823
+51,24,High School,Analyst,Male,118521
+52,11,Bachelor,Manager,Female,86920
+26,4,High School,Designer,Female,53912
+35,33,Master,Software Engineer,Male,156843
+32,36,Master,Data Scientist,Female,140400
+30,14,Bachelor,Manager,Male,102365
+55,35,High School,Data Scientist,Male,126418
+33,14,PhD,Data Scientist,Female,128876
+56,22,High School,Analyst,Male,126932
+56,5,Master,Analyst,Female,89445
+22,20,Master,Manager,Male,101938
+61,22,High School,Designer,Female,127845
+43,15,High School,Manager,Female,104271
+50,14,PhD,Designer,Female,112825
+29,24,PhD,Data Scientist,Male,120608
+32,35,High School,Software Engineer,Male,137610
+62,10,High School,Manager,Female,79582
+58,14,High School,Manager,Male,99287
+35,3,High School,Designer,Female,53031
+51,20,Bachelor,Data Scientist,Female,121545
+56,12,High School,Data Scientist,Male,91241
+42,21,PhD,Designer,Female,105284
+58,18,Master,Data Scientist,Male,111062
+26,33,Bachelor,Analyst,Female,130493
+40,13,High School,Software Engineer,Male,89947
+35,3,Master,Manager,Female,65768
+47,26,Bachelor,Software Engineer,Female,108451
+25,28,Master,Manager,Male,123239
+46,27,High School,Analyst,Female,117192
+63,34,High School,Data Scientist,Female,142919
+46,7,PhD,Designer,Male,93403
+39,15,High School,Analyst,Female,99800
+61,35,High School,Software Engineer,Male,154969
+29,29,Bachelor,Designer,Female,123965
+60,17,PhD,Data Scientist,Male,118795
+61,1,Bachelor,Analyst,Female,82747
+35,12,Master,Designer,Female,92107
+53,3,High School,Analyst,Female,62074
+59,25,Master,Analyst,Male,144419
+54,24,Bachelor,Data Scientist,Male,134034
+44,29,High School,Manager,Male,145883
+36,10,High School,Designer,Male,106804
+54,6,Bachelor,Data Scientist,Female,77239
+46,30,Bachelor,Analyst,Female,129646
+38,9,Bachelor,Data Scientist,Male,112115
+54,38,Bachelor,Manager,Male,152594
+23,12,Bachelor,Designer,Male,87942
+35,30,High School,Manager,Female,108288
+61,6,Bachelor,Software Engineer,Male,94002
+61,35,High School,Designer,Male,165819
+60,19,High School,Manager,Female,126866
+27,3,Bachelor,Analyst,Female,63400
+27,6,Bachelor,Designer,Male,71536
+24,0,PhD,Designer,Female,58690
+28,12,High School,Data Scientist,Male,75488
+29,21,Bachelor,Analyst,Female,87397
+63,20,Bachelor,Software Engineer,Male,120651
+36,21,Bachelor,Manager,Male,125101
+50,27,PhD,Data Scientist,Male,140554
+54,8,PhD,Manager,Male,114662
+51,25,Master,Software Engineer,Female,140232
+60,8,High School,Software Engineer,Female,86531
+48,14,Master,Designer,Female,98404
+57,9,Bachelor,Software Engineer,Female,89288
+50,23,PhD,Manager,Male,111829
+59,7,PhD,Analyst,Male,101823
+54,23,Master,Analyst,Female,97955
+58,15,PhD,Designer,Female,122914
+48,25,Bachelor,Manager,Female,124718
+54,26,PhD,Manager,Female,141714
+25,36,Master,Software Engineer,Female,149070
+43,3,Bachelor,Manager,Male,79487
+23,23,Master,Data Scientist,Male,127815
+31,18,PhD,Software Engineer,Male,115719
